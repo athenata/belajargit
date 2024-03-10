@@ -1,2 +1,1 @@
-"# Judul README" 
-"Ini adalah file README di dalam branch." 
+Git adalah sistem kontrol versi yang sangat populer yang digunakan oleh pengembang perangkat lunak untuk melacak perubahan dalam kode sumber proyek mereka. Dikembangkan oleh Linus Torvalds pada tahun 2005, Git menawarkan fleksibilitas, efisiensi, dan kecepatan dalam manajemen versi proyek. 
